@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IFSC Details</string>
+    <string name="about_">About</string>
+    <string name="enter_ifsc_code_hint">Enter IFSC Code</string>
+    <string name="get_details_btn">GET DETAILS</string>
+    <string name="about_app">Hi, I\'m Matrix.\n\nThis is a simple application which make you to get bank details using IFSC code.\n\nRequires internet.\n\n\nSerial no: 30\nDate of creation: 29 April 2022\nContact us: matrixinventions@gmail.com</string>
+</resources>
